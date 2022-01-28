@@ -54,30 +54,6 @@ client.on('message', msg => {
     if (command === "hello") {
         msg.reply("heyy");
     }
-    if (command === "bhai") {
-        msg.reply("Kon Yo Yo Bantai Chaiithra Bhai ya Aditi Bhai.. hehe");
-    }
-    if (command === "speak hindi") {
-        msg.reply("Mera Hindi tut gaya.");
-    }
-    if (command === "speak english") {
-        msg.reply("My English is now diminished.");
-    }
-    if (command === "tomper") {
-        msg.reply("Do I need to tell the name....huh, Vaishnavi?");
-    }
-    if (command === "sumper tomper") {
-        msg.reply("Do I need to tell the name....huh, Bhavik?");
-    }
-    if (command === "sumpernatural tomper") {
-        msg.reply("Do I need to tell the name....huh, Sanika 'San'?");
-    }
-    if (command === "chuparustam tomper") {
-        msg.reply("Do I need to tell the name....huh, Arnav?");
-    }
-    if (command === "multilingual tomper") {
-        msg.reply("Do I need to tell the name....huh, Saket 'San'?");
-    }
 })
 
 
